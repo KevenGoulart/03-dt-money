@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-08-14T16:35:11.505Z"
+    },
+    {
+      "id": "2",
+      "description": "Hambuguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 22,
+      "createdAt": "2024-08-14T16:10:11.505Z"
+    },
+    {
+      "id": "3",
+      "description": "The Last of Us Part I",
+      "type": "outcome",
+      "category": "Arte",
+      "price": 150,
+      "createdAt": "2024-08-14T17:10:11.505Z"
+    },
+    {
+      "id": "cc3c",
+      "description": "Freela",
+      "price": 2500,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-08-15T20:22:52.221Z"
+    },
+    {
+      "description": "Açaí",
+      "price": 23,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-08-16T18:06:44.400Z",
+      "id": "YTtS1CR"
+    }
+  ]
+}
